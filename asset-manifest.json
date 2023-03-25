@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pra/static/css/main.718c2d7a.css",
-    "main.js": "/pra/static/js/main.7f522eb3.js",
+    "main.css": "/pra/static/css/main.cf38b964.css",
+    "main.js": "/pra/static/js/main.f044f62a.js",
     "static/js/27.086ffc01.chunk.js": "/pra/static/js/27.086ffc01.chunk.js",
     "static/media/wood.webp": "/pra/static/media/wood.ab3396157f7428f9e773.webp",
     "static/media/salad4.webp": "/pra/static/media/salad4.801b90a784662b71b9e0.webp",
@@ -12,7 +12,7 @@
     "index.html": "/pra/index.html"
   },
   "entrypoints": [
-    "static/css/main.718c2d7a.css",
-    "static/js/main.7f522eb3.js"
+    "static/css/main.cf38b964.css",
+    "static/js/main.f044f62a.js"
   ]
 }
